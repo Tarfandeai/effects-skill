@@ -4,8 +4,6 @@
 
 ساخته‌شده توسط [@tarfandhaye.ai](https://instagram.com/tarfandhaye.ai) 💛
 
-![همه‌ی ۴۲ افکت](assets/preview.jpg)
-
 ## نصب (بدون هیچ کار فنی)
 
 1. فایل zip این اسکیل رو دانلود کن (همونی که برات فرستادم).
